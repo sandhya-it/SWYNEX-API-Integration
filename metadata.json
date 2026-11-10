@@ -1,0 +1,7 @@
+{
+  "name": "BOOKVERSE – Discover Your Next Read",
+  "description": "A modern, responsive book explorer web application powered by the Open Library Public API. Search thousands of titles, filter by genre and publication era, curate personal reading favorites, and view rich edition details in an elegant editorial interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
